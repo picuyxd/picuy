@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "http://notzen.my.id/test/index.php",
+        url: "https://notzen.my.id/notzen/index.php",
 
         type: "POST",
 
